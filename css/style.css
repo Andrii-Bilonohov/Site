@@ -14,7 +14,7 @@
 
 header {
     height: 500px;
-    background: url(https://source.unsplash.com/NVHDSYqBZCE/1920x1080) no-repeat center #0f1384;
+    background: url(images/header-bg.jpg) no-repeat center #0f1384;
     background-size: cover;
     color: #fff;
     display: -webkit-flex;
